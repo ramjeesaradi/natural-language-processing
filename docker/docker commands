@@ -1,7 +1,0 @@
-gcr.io/alert-maker-188312/nlp
-
-docker tag fce67b2d9d37 gcr.io/alert-maker-188312/nlp
-docker push gcr.io/alert-maker-188312/nlp
-
-docker tag fce67b2d9d37 ramjeesaradi/mooc_exercises:firsttry
-docker push ramjeesaradi/mooc_exercises
